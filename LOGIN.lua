@@ -107,6 +107,25 @@ gg.toast("BEM VINDO\nUSUÁRIO: Edu Pika dos  MxDz")
 gg.sleep(3333)
 end
 
+--[[USER: EDU MODZ]]--
+if uid == "1794a0dfd351641e"
+then
+vicevip = "atv"
+pkantsVIP = "atv"
+oxidevip = "atv"
+CovFr = "atv"
+GolfRiv = "atv"
+afkvip = "atv"
+TrialsFr = "atv"
+Dia = 24
+Mes = 24
+Ano = 6969
+isUserVIP = "true"
+gg.setVisible(false)
+gg.toast("BEM VINDO\nUSUÁRIO: Edu Pika dos  MxDz")
+gg.sleep(3333)
+end
+
 --[[USER: BRAGA MODS]]--
 if uid == "9cea4cadc10a0acd"
 then
@@ -1922,7 +1941,55 @@ gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
 
+if isUserVIP ~= "true" 
+then
+vicevip = nil
+pkantsVIP = nil
+oxidevip = nil
+CovFr = nil
+GolfRiv = nil
+afkvip = nil
+TrialsFr = nil
+Dia = 77
+Mes = 77
+Ano = 7777
+isUserVIP = nil
+gg.setVisible(false)
+end
+
+function check(t) 
+if t<10 then t="0"..t end
+return t
+end
+expiredate=Ano.. check(Mes).. check(Dia)
+date=gg.makeRequest("http://whatismyip.org/").headers["Date" ][1]
+Meses={"Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"}
+for i=1,12 do
+if Meses[i]==string.sub(date,9, 11) then
+if i<10 then
+i="0"..i 
+end 
+currentdate=string.sub(date,13, 16)..i..string.sub(date,6, 7)  
+end
+end
+
+function Vip_expired_login()
+gg.alert("SEU VIP JÁ ESTA EXPIRADO, FALE COM ALGUM ADMINISTRADOR PARA RENOVAR O VIP...\n\n DATA EXPIRAÇÃO: [ "..Dia.." / "..Mes.." / "..Ano.." ]\n\nCRIADORES SCRIPT\n\nBRAGA MODS: +55 62 9662-4507\n\nKIRA MODS: +55 21 96508-5870\n\nEDU MODS: +55 34 99874-1149\n\n\n\nCOPYRIGHT: BRAGA TEAM") 
+os.exit() 
+end
+
+if tonumber(currentdate)>=tonumber(expiredate) then
+Vip_expired_login() end
+
+if isUserVIP ~= "true"
+then
+gg.setVisible(false)
+gg.toast("BEM VINDO\nUSUÁRIO: GRÁTIS")
+gg.sleep(3333)
+end
+
 AllOn = "EduMxDz"
 FirstStart = "On"
 
-if dkdjejjdid == "sodjdjdjidk" then end
+if edu ~= edu or edu == edu then edu = edu end
+if edu == edu or edu ~= edu then edu = edu end

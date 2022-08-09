@@ -1,3 +1,4 @@
+
 TUTORIAL = gg.alert("Olá, Deseja Ver Um Tutorial, Sobre Como Usar O Script/Game Guardian? (HACK)", "SIM", "NÃO")
 
 if TUTORIAL == 1 then
@@ -130,8 +131,8 @@ end
 if uid == "6c6da045f2d84f5f"
 then
 vicevip = "atv"
-Dia = 1
-Mes = 9
+Dia = 99
+Mes = 99
 Ano = 9999
 isUserVIP = "true"
 gg.setVisible(false)
@@ -534,7 +535,7 @@ end
 --[[USER: YAN REILLER]]--
 if uid == "b86475f67b68be"
 then
-vicevip = "atv"))
+vicevip = "atv"
 Dia = 03
 Mes = 09
 Mes = 2022
@@ -626,8 +627,8 @@ end
 if uid == "7d9cabf795cd15c0"
 then
 vicevip = "atv"
-Dia = 06
-Mes = 09
+Dia = 01
+Mes = 9
 Mes = 2022
 isUserVIP = "true"
 gg.setVisible(false)
@@ -635,16 +636,16 @@ gg.toast("BEM VINDO\nUSUÁRIO: João Guilherme")
 gg.sleep(3333)
 end
 
---[[USER: Last]]--
-if uid == "fec41c7f7f32"
+--[[USER: NOME~USUARIO]]--
+if uid == "UID~USUARIO"
 then
 vicevip = "atv"
-Dia = 28
-Mes = 08
+Dia = 01
+Mes = 9
 Mes = 2022
 isUserVIP = "true"
 gg.setVisible(false)
-gg.toast("BEM VINDO\nUSUÁRIO:Last")
+gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
 

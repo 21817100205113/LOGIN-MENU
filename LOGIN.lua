@@ -1,4 +1,3 @@
-
 TUTORIAL = gg.alert("Olá, Deseja Ver Um Tutorial, Sobre Como Usar O Script/Game Guardian? (HACK)", "SIM", "NÃO")
 
 if TUTORIAL == 1 then
@@ -559,7 +558,7 @@ gg.sleep(3333)
 end
 
 --[[USER: FELIPE FARIAS]]--
-if uid == "b0a26ab8a98d264f"
+if uid == "f48eb7b87fd14828"
 then
 vicevip = "atv"
 Dia = 19

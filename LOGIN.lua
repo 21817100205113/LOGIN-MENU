@@ -601,7 +601,7 @@ if uid == "420b779d8fa3e484"
 then
 vicevip = "atv"
 Dia = 01
-Mes = 9
+Mes = 09
 Mes = 2022
 isUserVIP = "true"
 gg.setVisible(false)
@@ -627,7 +627,7 @@ if uid == "7d9cabf795cd15c0"
 then
 vicevip = "atv"
 Dia = 01
-Mes = 9
+Mes = 09
 Mes = 2022
 isUserVIP = "true"
 gg.setVisible(false)
@@ -635,29 +635,29 @@ gg.toast("BEM VINDO\nUSUÁRIO: João Guilherme")
 gg.sleep(3333)
 end
 
---[[USER: NOME~USUARIO]]--
-if uid == "UID~USUARIO"
+--[[USER: CARLITO LESSA]]--
+if uid == "49af269e17849f63"
 then
 vicevip = "atv"
-Dia = 01
-Mes = 9
+Dia = 05
+Mes = 09
 Mes = 2022
 isUserVIP = "true"
 gg.setVisible(false)
-gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
+gg.toast("BEM VINDO\nUSUÁRIO: Carlito Lessa)
 gg.sleep(3333)
 end
 
---[[USER: NOME~USUARIO]]--
-if uid == "UID~USUARIO"
+--[[USER: PEDRO HENRIQUE]]--
+if uid == "781b46d42c98e027"
 then
 vicevip = "atv"
-Dia = 01
-Mes = 9
+Dia = 09
+Mes = 09
 Mes = 2022
 isUserVIP = "true"
 gg.setVisible(false)
-gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
+gg.toast("BEM VINDO\nUSUÁRIO: Pedro Henrique)
 gg.sleep(3333)
 end
 

@@ -130,8 +130,8 @@ end
 if uid == "6c6da045f2d84f5f"
 then
 vicevip = "atv"
-Dia = 99
-Mes = 99
+Dia = 1
+Mes = 9
 Ano = 9999
 isUserVIP = "true"
 gg.setVisible(false)

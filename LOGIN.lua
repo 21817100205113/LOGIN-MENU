@@ -79,6 +79,7 @@ Mes = 08
 Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Shaka Golf Rival")
 gg.sleep(3333)
 end
@@ -99,6 +100,7 @@ Mes = 09
 Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO:  Marcos Charles")
 gg.sleep(3333)
 end
@@ -117,6 +119,7 @@ Mes = 08
 Ano = 9999
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: kirafp55")
 gg.sleep(3333)
 end
@@ -146,6 +149,7 @@ Mes = 24
 Ano = 6969
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Edu Pika dos  MxDz")
 gg.sleep(3333)
 end
@@ -165,6 +169,7 @@ Mes = 24
 Ano = 6969
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Edu Pika dos  MxDz")
 gg.sleep(3333)
 end
@@ -184,6 +189,7 @@ Mes = 99
 Ano = 9999
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DONO DA BOCA\nBRAGA MODS")
 gg.sleep(3333)
 end
@@ -197,6 +203,7 @@ Mes = 99
 Ano = 9999
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Kira Mods\nO CHEFE")
 gg.setVisible(true)
 gg.sleep(3333)
@@ -211,6 +218,7 @@ Mes = 09
 Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Luiz Gustavo")
 gg.sleep(3333)
 end
@@ -224,6 +232,7 @@ Mes = 08
 Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Matheus Barros")
 gg.sleep(3333)
 end
@@ -234,9 +243,10 @@ then
 vicevip = "atv"
 Dia = 04
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Robson Sales")
 gg.sleep(3333)
 end
@@ -247,9 +257,10 @@ then
 vicevip = "atv"
 Dia = 04
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Cauã Pimentel")
 gg.sleep(3333)
 end
@@ -260,9 +271,10 @@ then
 vicevip = "atv"
 Dia = 04
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Vinícius da Silva")
 gg.sleep(3333)
 end
@@ -276,6 +288,7 @@ Mes = 08
 Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Rafael")
 gg.sleep(3333)
 end
@@ -286,9 +299,10 @@ then
 vicevip = "atv"
 Dia = 04
 Mes = 09
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Renato Aragão")
 gg.sleep(3333)
 end
@@ -302,6 +316,7 @@ Mes = 07
 Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Luciano de Oliveira")
 gg.sleep(3333)
 end
@@ -312,7 +327,7 @@ then
 vicevip = "atv"
 Dia = 04
 Mes = 09
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
 gg.toast("BEM VINDA\nUSUÁRIA: Kaylane Martins")
@@ -329,6 +344,7 @@ Mes = 08
 Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Yorran")
 gg.sleep(3333)
 end
@@ -342,6 +358,7 @@ Mes = 07
 Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Adriel Cardoso")
 gg.sleep(3333)
 end
@@ -352,9 +369,10 @@ then
 vicevip = "atv"
 Dia = 04
 Mes = 09
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Wallace")
 gg.sleep(3333)
 end
@@ -365,9 +383,10 @@ then
 vicevip = "atv"
 Dia = 04
 Mes = 09
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Thiago Gabriel")
 gg.sleep(3333)
 end
@@ -378,9 +397,10 @@ then
 vicevip = "atv"
 Dia = 04
 Mes = 09
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Van Luc")
 gg.sleep(3333)
 end
@@ -391,9 +411,10 @@ then
 vicevip = "atv"
 Dia = 04
 Mes = 09
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Alex Bispo")
 gg.sleep(3333)
 end
@@ -407,6 +428,7 @@ Mes = 08
 Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Emanuel Victor")
 gg.sleep(3333)
 end
@@ -417,9 +439,10 @@ then
 vicevip = "atv"
 Dia = 04
 Mes = 09
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Vinicius")
 gg.sleep(3333)
 end
@@ -430,9 +453,10 @@ then
 vicevip = "atv"
 Dia = 03
 Mes = 09
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Jhonny Ferreira")
 gg.sleep(3333)
 end
@@ -446,6 +470,7 @@ Mes = 08
 Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Vinicius Hideki")
 gg.sleep(3333)
 end
@@ -459,6 +484,7 @@ Mes = 07
 Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Claiver Duarte")
 gg.sleep(3333)
 end
@@ -469,9 +495,10 @@ then
 vicevip = "atv"
 Dia = 04
 Mes = 09
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Bruno Leonardo")
 gg.sleep(3333)
 end
@@ -485,6 +512,7 @@ Mes = 09
 Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Lucas Robert")
 gg.sleep(3333)
 end
@@ -495,9 +523,10 @@ then
 vicevip = "atv"
 Dia = 04
 Mes = 09
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Vinicius Cliente")
 gg.sleep(3333)
 end
@@ -508,9 +537,10 @@ then
 vicevip = "atv"
 Dia = 04
 Mes = 09
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Jhonny Ferreira")
 gg.sleep(3333)
 end
@@ -524,6 +554,7 @@ Mes = 08
 Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Dayvid Bruno")
 gg.sleep(3333)
 end
@@ -537,6 +568,7 @@ Mes = 09
 Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Kiwi 🥝")
 gg.sleep(3333)
 end
@@ -550,6 +582,7 @@ Mes = 08
 Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Wagner Coelho")
 gg.sleep(3333)
 end
@@ -563,6 +596,7 @@ Mes = 08
 Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Leonardo")
 gg.sleep(3333)
 end
@@ -573,9 +607,10 @@ then
 vicevip = "atv"
 Dia = 26
 Mes = 09
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Bruno Victor")
 gg.sleep(3333)
 end
@@ -586,9 +621,10 @@ then
 vicevip = "atv"
 Dia = 04
 Mes = 09
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Thiago")
 gg.sleep(3333)
 end
@@ -599,9 +635,10 @@ then
 vicevip = "atv"
 Dia = 03
 Mes = 09
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Yan")
 gg.sleep(3333)
 end
@@ -612,9 +649,10 @@ then
 vicevip = "atv"
 Dia = 02
 Mes = 09
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Heyder")
 gg.sleep(3333)
 end
@@ -628,6 +666,7 @@ Mes = 09
 Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Felipe Farias")
 gg.sleep(3333)
 end
@@ -638,9 +677,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 09
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Ezequiel Silva")
 gg.sleep(3333)
 end
@@ -651,9 +691,10 @@ then
 vicevip = "atv"
 Dia = 05
 Mes = 09
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Esdras Souza")
 gg.sleep(3333)
 end
@@ -664,9 +705,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: Gabriel Ferreira")
 gg.sleep(3333)
 end
@@ -677,9 +719,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: ALBLACK")
 gg.sleep(3333)
 end
@@ -690,9 +733,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: João Guilherme")
 gg.sleep(3333)
 end
@@ -703,9 +747,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -716,9 +761,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -729,9 +775,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -742,9 +789,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -755,9 +803,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -768,9 +817,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -781,9 +831,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -794,9 +845,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -807,9 +859,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -820,9 +873,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -833,9 +887,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -846,9 +901,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -859,9 +915,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -872,9 +929,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -885,9 +943,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -898,9 +957,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -911,9 +971,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -924,9 +985,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -937,9 +999,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -950,9 +1013,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -963,9 +1027,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -976,9 +1041,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -989,9 +1055,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1002,9 +1069,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1015,9 +1083,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1028,9 +1097,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1041,9 +1111,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1054,9 +1125,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1067,9 +1139,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1080,9 +1153,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1093,9 +1167,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1106,9 +1181,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1119,9 +1195,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1132,9 +1209,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1145,9 +1223,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1158,9 +1237,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1171,9 +1251,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1184,9 +1265,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1197,9 +1279,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1210,9 +1293,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1223,9 +1307,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1236,9 +1321,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1249,9 +1335,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1262,9 +1349,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1275,9 +1363,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1288,9 +1377,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1301,9 +1391,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1314,9 +1405,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1327,9 +1419,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1340,9 +1433,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1353,9 +1447,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1366,9 +1461,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1379,9 +1475,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1392,9 +1489,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1405,9 +1503,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1418,9 +1517,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1431,9 +1531,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1444,9 +1545,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1457,9 +1559,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1470,9 +1573,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1483,9 +1587,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1496,9 +1601,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1509,9 +1615,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1522,9 +1629,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1535,9 +1643,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1548,9 +1657,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1561,9 +1671,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1574,9 +1685,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1587,9 +1699,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1600,9 +1713,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1613,9 +1727,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1626,9 +1741,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1639,9 +1755,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1652,9 +1769,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1665,9 +1783,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1678,9 +1797,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1691,9 +1811,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1704,9 +1825,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1717,9 +1839,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1730,9 +1853,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1743,9 +1867,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1756,9 +1881,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1769,9 +1895,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1782,9 +1909,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1795,9 +1923,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1808,9 +1937,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1821,9 +1951,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1834,9 +1965,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1847,9 +1979,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1860,9 +1993,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1873,9 +2007,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1886,9 +2021,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1899,9 +2035,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1912,9 +2049,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1925,9 +2063,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1938,9 +2077,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1951,9 +2091,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1964,9 +2105,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end
@@ -1977,9 +2119,10 @@ then
 vicevip = "atv"
 Dia = 01
 Mes = 9
-Mes = 2022
+Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
+gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
 gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
 gg.sleep(3333)
 end

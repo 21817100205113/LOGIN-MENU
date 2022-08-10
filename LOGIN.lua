@@ -408,7 +408,7 @@ gg.sleep(3333)
 end
 
 --[[USER: JHONNY FERREIRA]]--
-if uid == "d0bef134db2ca715"
+if uid == "69139da68a9f9c7d"
 then
 vicevip = "atv"
 Dia = 03
@@ -2001,18 +2001,7 @@ end
 
 function Vip_expired_login()
 gg.alert("SEU VIP JÁ ESTA EXPIRADO, FALE COM ALGUM ADMINISTRADOR PARA RENOVAR O VIP...\n\n DATA EXPIRAÇÃO: [ "..Dia.." / "..Mes.." / "..Ano.." ]\n\nCRIADORES SCRIPT\n\nBRAGA MODS: +55 62 9662-4507\n\nKIRA MODS: +55 21 96508-5870\n\nEDU MODS: +55 34 99874-1149\n\n\n\nCOPYRIGHT: BRAGA TEAM") 
-vicevip = nil
-pkantsVIP = nil
-oxidevip = nil
-CovFr = nil
-GolfRiv = nil
-afkvip = nil
-TrialsFr = nil
-Dia = 77
-Mes = 77
-Ano = 7777
-isUserVIP = nil
-gg.setVisible(false)
+os.exit() 
 end
 
 if tonumber(currentdate)>=tonumber(expiredate) then

@@ -433,25 +433,12 @@ gg.toast("BEM VINDO\nUSUÁRIO: Emanuel Victor")
 gg.sleep(3333)
 end
 
---[[USER: VINICIUS VICE ONLINE]]--
-if uid == "7be3289b40d4e78c"
-then
-vicevip = "atv"
-Dia = 04
-Mes = 09
-Ano = 2022
-isUserVIP = "true"
-gg.setVisible(false)
-gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
-gg.toast("BEM VINDO\nUSUÁRIO: Vinicius")
-gg.sleep(3333)
-end
 
 --[[USER: JHONNY FERREIRA]]--
 if uid == "69139da68a9f9c7d"
 then
 vicevip = "atv"
-Dia = 03
+Dia = 09
 Mes = 09
 Ano = 2022
 isUserVIP = "true"
@@ -518,7 +505,7 @@ gg.sleep(3333)
 end
 
 --[[USER: VINÍCIUS CLIENTE]]--
-if uid == "7be3289b40d4e78c"
+if uid == "5bd93721abadf98"
 then
 vicevip = "atv"
 Dia = 04
@@ -741,17 +728,17 @@ gg.toast("BEM VINDO\nUSUÁRIO: João Guilherme")
 gg.sleep(3333)
 end
 
---[[USER: NOME~USUARIO]]--
-if uid == "UID~USUARIO"
+--[[USER: Isaac Brenno]]--
+if uid == "14186ee06f79d2c5"
 then
 vicevip = "atv"
-Dia = 01
-Mes = 9
+Dia = 31
+Mes = 8
 Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
 gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
-gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
+gg.toast("BEM VINDO\nUSUÁRIO: Isaac Brenno")
 gg.sleep(3333)
 end
 

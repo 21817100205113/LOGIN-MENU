@@ -691,7 +691,7 @@ if uid == "420b779d8fa3e484"
 then
 vicevip = "atv"
 Dia = 01
-Mes = 9
+Mes = 09
 Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
@@ -705,7 +705,7 @@ if uid == "52f2b5e11df042d6"
 then
 vicevip = "atv"
 Dia = 01
-Mes = 9
+Mes = 09
 Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
@@ -719,7 +719,7 @@ if uid == "7d9cabf795cd15c0"
 then
 vicevip = "atv"
 Dia = 01
-Mes = 9
+Mes = 09
 Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
@@ -733,7 +733,7 @@ if uid == "14186ee06f79d2c5"
 then
 vicevip = "atv"
 Dia = 31
-Mes = 8
+Mes = 08
 Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
@@ -742,17 +742,17 @@ gg.toast("BEM VINDO\nUSUÁRIO: Isaac Brenno")
 gg.sleep(3333)
 end
 
---[[USER: NOME~USUARIO]]--
-if uid == "UID~USUARIO"
+--[[USER: Pedro José]]--
+if uid == "eb5f9adf0b766ccd"
 then
 vicevip = "atv"
-Dia = 01
-Mes = 9
+Dia = 28
+Mes = 08
 Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
 gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
-gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
+gg.toast("BEM VINDO\nUSUÁRIO: Pedro José")
 gg.sleep(3333)
 end
 

@@ -603,7 +603,7 @@ gg.sleep(3333)
 end
 
 --[[USER: THIAGO GABRIEL BARBOSA DA SILVA]]--
-if uid == "b96e4a1d222a2497"
+if uid == "9f08039c00f3e1ed"
 then
 vicevip = "atv"
 Dia = 04

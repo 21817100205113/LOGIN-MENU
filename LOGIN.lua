@@ -449,7 +449,7 @@ gg.sleep(3333)
 end
 
 --[[USER: VINICIUS HIDEKI HARANO DA SILVA]]--
-if uid == "7f03c849d811a314"
+if uid == "9dfd8c19f8fe5084"
 then
 vicevip = "atv"
 Dia = 17

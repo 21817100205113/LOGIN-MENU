@@ -433,7 +433,7 @@ end
 --[[USER: JHONNY FERREIRA]]--
 if uid == "69139da68a9f9c7d"
 then
-vicevip = "atv"
+gg.alert("DETECTADO 2 UIDS DIFERENTES PARA O MESMO UID, ABORTANDO VIP..")
 Dia = 09
 Mes = 09
 Ano = 2022
@@ -517,7 +517,7 @@ end
 --[[USER: JHONNY FERREIRA]]--
 if uid == "b1c74a3db5552a84"
 then
-vicevip = "atv"
+gg.alert("DETECTADO 2 UIDS DIFERENTES PARA O MESMO UID, ABORTANDO VIP..")
 Dia = 04
 Mes = 09
 Ano = 2022
@@ -756,8 +756,8 @@ end
 if uid == "42e6c1680a183285"
 then
 vicevip = "atv"
-Dia = 27
-Mes = 8
+Dia = 5
+Mes = 9
 Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
@@ -766,8 +766,8 @@ gg.toast("BEM VINDO\nUSUÁRIO: Wesley")
 gg.sleep(3333)
 end
 
---[[USER: NOME~USUARIO]]--
-if uid == "UID~USUARIO"
+--[[USER: Tassiana Barbosa]]--
+if uid == "9f08039c00f3e1ed"
 then
 vicevip = "atv"
 Dia = 01
@@ -776,7 +776,7 @@ Ano = 2022
 isUserVIP = "true"
 gg.setVisible(false)
 gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano)
-gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO")
+gg.toast("BEM VINDO\nUSUÁRIO: Tassiana")
 gg.sleep(3333)
 end
 

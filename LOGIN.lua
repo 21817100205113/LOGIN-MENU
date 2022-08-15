@@ -828,7 +828,7 @@ end
  end 
   
  --[[USER: NOME~USUARIO]]-- 
- if uid == "UID~USUARIO" 
+ if uid == "ID:a4cfee68942921e5" 
  then 
  vicevip = "atv" 
  Dia = 01 

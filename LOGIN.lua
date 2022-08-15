@@ -827,7 +827,7 @@ end
  gg.sleep(3333) 
  end 
   
- --[[USER: FILIPI GABRIEL]-- 
+ --[[USER: FILIPI GABRIEL]]-- 
  if uid == "3cb091dd26f89584" 
  then 
  vicevip = "atv" 

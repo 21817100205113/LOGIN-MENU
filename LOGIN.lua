@@ -827,7 +827,7 @@ end
  gg.sleep(3333) 
  end 
   
- --[[USER: NOME~USUARIO]]-- 
+ --[[USER: BRAGA MODS]]-- 
  if uid == "UID~USUARIO" 
  then 
  vicevip = "atv" 

@@ -841,19 +841,7 @@ end
  gg.sleep(3333) 
  end 
   
- --[[USER: JOÃO PEDRO]]-- 
- if uid == "7b4c4ab1a3e1b590" 
- then 
- vicevip = "atv" 
- Dia = 01 
- Mes = 9 
- Ano = 2022 
- isUserVIP = "true" 
- gg.setVisible(false) 
- gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano) 
- gg.toast("BEM VINDO\nUSUÁRIO: JOÃO PEDRO") 
- gg.sleep(3333) 
- end 
+
   
  --[[USER: CAUÃ PIMENTEL]]-- 
  if uid == "f484dea849569a2b" 
@@ -897,21 +885,8 @@ end
  gg.sleep(3333) 
  end 
   
- --[[USER: ÍTALO RODRIGUES]]-- 
- if uid == "18f7dda83ff961c4" 
- then 
- vicevip = "atv" 
- Dia = 01 
- Mes = 9 
- Ano = 2022 
- isUserVIP = "true" 
- gg.setVisible(false) 
- gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano) 
- gg.toast("BEM VINDO\nUSUÁRIO: Ítalo Rodrigues") 
- gg.sleep(3333) 
- end 
   
- --[[USER: Wesley]]-- 
+ --[[USER: FRANCISCO WESLEY]]-- 
  if uid == "26ac273e391dc9b8" 
  then 
  vicevip = "atv" 
@@ -921,35 +896,35 @@ end
  isUserVIP = "true" 
  gg.setVisible(false) 
  gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano) 
- gg.toast("BEM VINDO\nUSUÁRIO: Wesley") 
+ gg.toast("BEM VINDO\nUSUÁRIO: Francisco Wesley") 
  gg.sleep(3333)
  end 
   
- --[[USER: NOME~USUARIO]]-- 
- if uid == "UID~USUARIO" 
+ --[[USER: GABRIEL COSTA]]-- 
+ if uid == "88c3f3b318f74834" 
  then 
  vicevip = "atv" 
- Dia = 01 
+ Dia = 16
  Mes = 9 
  Ano = 2022 
  isUserVIP = "true" 
  gg.setVisible(false) 
  gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano) 
- gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO") 
+ gg.toast("BEM VINDO\nUSUÁRIO: Gabriel Costa") 
  gg.sleep(3333) 
  end 
   
- --[[USER: NOME~USUARIO]]-- 
- if uid == "UID~USUARIO" 
+ --[[USER: IGOR SILVEIRA]]-- 
+ if uid == "2c9f445cdb821688" 
  then 
  vicevip = "atv" 
- Dia = 01 
+ Dia = 16
  Mes = 9 
  Ano = 2022 
  isUserVIP = "true" 
  gg.setVisible(false) 
  gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano) 
- gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO") 
+ gg.toast("BEM VINDO\nUSUÁRIO: IGOR SILVEIRA") 
  gg.sleep(3333) 
  end 
   

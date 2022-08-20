@@ -970,17 +970,17 @@ end
  gg.sleep(3333) 
  end 
   
- --[[USER: NOME~USUARIO]]-- 
- if uid == "UID~USUARIO" 
+ --[[USER: DIOGO SILVA]]-- 
+ if uid == "2e8c32cacf6ea8b2" 
  then 
  vicevip = "atv" 
- Dia = 01 
+ Dia = 20
  Mes = 9 
  Ano = 2022 
  isUserVIP = "true" 
  gg.setVisible(false) 
  gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano) 
- gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO") 
+ gg.toast("BEM VINDO\nUSUÁRIO: DIOGO SILVA") 
  gg.sleep(3333) 
  end 
   

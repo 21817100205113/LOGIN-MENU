@@ -150,7 +150,7 @@ TUTORIAL = gg.alert("Olá, Deseja Ver Um Tutorial, Sobre Como Usar O Script/Game
  --[[USUÁRIOS + SCRIPTS + DATA DE VENCIMENTO]] 
   
  --[[USER: EDU MODZ]]-- 
- if uid == "e1fce2629bc6e22e" 
+ if uid == "b2d0e9d6c98f09cb" 
  then 
  vicevip = "atv" 
  pkantsVIP = "atv" 
@@ -170,7 +170,7 @@ TUTORIAL = gg.alert("Olá, Deseja Ver Um Tutorial, Sobre Como Usar O Script/Game
  end 
   
  --[[USER: EDU MODZ]]-- 
- if uid == "1794a0dfd351641e" 
+ if uid == "b2d0e9d6c98f09cb" 
  then 
  vicevip = "atv" 
  pkantsVIP = "atv" 

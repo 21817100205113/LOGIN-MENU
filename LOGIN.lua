@@ -150,27 +150,7 @@ TUTORIAL = gg.alert("Olá, Deseja Ver Um Tutorial, Sobre Como Usar O Script/Game
  --[[USUÁRIOS + SCRIPTS + DATA DE VENCIMENTO]] 
   
  --[[USER: EDU MODZ]]-- 
- if uid == "e1fce2629bc6e22e" 
- then 
- vicevip = "atv" 
- pkantsVIP = "atv" 
- oxidevip = "atv" 
- CovFr = "atv" 
- GolfRiv = "atv" 
- afkvip = "atv" 
- TrialsFr = "atv" 
- Dia = 24 
- Mes = 24 
- Ano = 6969 
- isUserVIP = "true" 
- gg.setVisible(false) 
- gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano) 
- gg.toast("BEM VINDO\nUSUÁRIO: Edu Pika dos  MxDz") 
- gg.sleep(3333) 
- end 
-  
- --[[USER: EDU MODZ]]-- 
- if uid == "1794a0dfd351641e" 
+ if uid == "b2d0e9d6c98f09cb" 
  then 
  vicevip = "atv" 
  pkantsVIP = "atv" 

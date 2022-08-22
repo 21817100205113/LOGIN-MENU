@@ -159,10 +159,11 @@ TUTORIAL = gg.alert("Olá, Deseja Ver Um Tutorial, Sobre Como Usar O Script/Game
  CovFr = "atv" 
  GolfRiv = "atv" 
  afkvip = "atv" 
- TrialsFr = "atv" 
- Dia = 24 
- Mes = 24 
- Ano = 6969 
+ TrialsFr = "atv"
+ CSGO = "atv" 
+ Dia = 99999 
+ Mes = 9999999 
+ Ano = 9999999999 
  isUserVIP = "true" 
  gg.setVisible(false) 
  gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano) 
@@ -170,25 +171,7 @@ TUTORIAL = gg.alert("Olá, Deseja Ver Um Tutorial, Sobre Como Usar O Script/Game
  gg.sleep(3333) 
  end 
   
- --[[USER: EDU MODZ]]-- 
- if uid == "b2d0e9d6c98f09cb" 
- then 
- vicevip = "atv" 
- pkantsVIP = "atv" 
- oxidevip = "atv" 
- CovFr = "atv" 
- GolfRiv = "atv" 
- afkvip = "atv" 
- TrialsFr = "atv" 
- Dia = 24 
- Mes = 24 
- Ano = 6969 
- isUserVIP = "true" 
- gg.setVisible(false) 
- gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano) 
- gg.toast("BEM VINDO\nUSUÁRIO: Edu Pika dos  MxDz") 
- gg.sleep(3333) 
- end 
+
   
  --[[USER: BRAGA MODS]]-- 
  if uid == "9cea4cadc10a0acd" 
@@ -210,20 +193,7 @@ TUTORIAL = gg.alert("Olá, Deseja Ver Um Tutorial, Sobre Como Usar O Script/Game
  gg.sleep(3333) 
  end 
   
- --[[USER: KIRA MODS]]-- 
- if uid == "6c6da045f2d84f5f" 
- then 
- vicevip = "atv" 
- Dia = 99 
- Mes = 99 
- Ano = 9999 
- isUserVIP = "true" 
- gg.setVisible(false) 
- gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano) 
- gg.toast("BEM VINDO\nUSUÁRIO: Kira Mods\nO CHEFE") 
- gg.setVisible(true) 
- gg.sleep(3333) 
- end 
+
   
  --[[USER: LUIZ GUSTAVO]]-- 
  if uid == "c8525a2035ed2933" 

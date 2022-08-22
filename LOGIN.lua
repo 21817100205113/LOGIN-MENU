@@ -150,7 +150,7 @@ TUTORIAL = gg.alert("Olá, Deseja Ver Um Tutorial, Sobre Como Usar O Script/Game
  --[[USUÁRIOS + SCRIPTS + DATA DE VENCIMENTO]] 
   
  --[[USER: EDU MODZ]]-- 
- if uid == "b2d0e9d6c98f09cb" 
+ if uid == "e1fce2629bc6e22e" 
  then 
  vicevip = "atv" 
  pkantsVIP = "atv" 
@@ -159,9 +159,29 @@ TUTORIAL = gg.alert("Olá, Deseja Ver Um Tutorial, Sobre Como Usar O Script/Game
  GolfRiv = "atv" 
  afkvip = "atv" 
  TrialsFr = "atv" 
- Dia = 99
- Mes = 99
- Ano = 999999
+ Dia = 24 
+ Mes = 24 
+ Ano = 6969 
+ isUserVIP = "true" 
+ gg.setVisible(false) 
+ gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano) 
+ gg.toast("BEM VINDO\nUSUÁRIO: Edu Pika dos  MxDz") 
+ gg.sleep(3333) 
+ end 
+  
+ --[[USER: EDU MODZ]]-- 
+ if uid == "1794a0dfd351641e" 
+ then 
+ vicevip = "atv" 
+ pkantsVIP = "atv" 
+ oxidevip = "atv" 
+ CovFr = "atv" 
+ GolfRiv = "atv" 
+ afkvip = "atv" 
+ TrialsFr = "atv" 
+ Dia = 24 
+ Mes = 24 
+ Ano = 6969 
  isUserVIP = "true" 
  gg.setVisible(false) 
  gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano) 
@@ -1034,17 +1054,17 @@ end
  gg.sleep(3333) 
  end 
   
- --[[USER: NOME~USUARIO]]-- 
- if uid == "UID~USUARIO" 
+ --[[USER: LUCAS ADM]]-- 
+ if uid == "ce7eee62a8adb7da" 
  then 
  vicevip = "atv" 
- Dia = 01 
- Mes = 9 
+ Dia = 22
+ Mes = 10
  Ano = 2022 
  isUserVIP = "true" 
  gg.setVisible(false) 
  gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano) 
- gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO") 
+ gg.toast("BEM VINDO\nUSUÁRIO: LUCAS (ZÉ)") 
  gg.sleep(3333) 
  end 
   

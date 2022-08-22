@@ -956,7 +956,7 @@ end
  end 
   
  --[[USER: ALISSON HENRIQUE]]-- 
- if uid == "aab4aa6cf4856cfd" 
+ if uid == "08ec6ac91c6d3168" 
  then 
  vicevip = "atv" 
  Dia = 28

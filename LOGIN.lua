@@ -632,7 +632,7 @@ TUTORIAL = gg.alert("Olá, Deseja Ver Um Tutorial, Sobre Como Usar O Script/Game
  end 
   
  --[[USER: YAN REILLER]]-- 
- if uid == "b86475f67b68be" 
+ if uid == "4123b520a105e398" 
  then 
  vicevip = "atv" 
  Dia = 03 
@@ -1040,17 +1040,17 @@ end
  gg.sleep(3333) 
  end 
   
- --[[USER: NOME~USUARIO]]-- 
- if uid == "UID~USUARIO" 
+ --[[USER: JOÃO SOARES]]-- 
+ if uid == "25aadf134b5700a2" 
  then 
  vicevip = "atv" 
- Dia = 01 
- Mes = 9 
+ Dia = 21
+ Mes = 10
  Ano = 2022 
  isUserVIP = "true" 
  gg.setVisible(false) 
  gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano) 
- gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO") 
+ gg.toast("BEM VINDO\nUSUÁRIO: João Soares") 
  gg.sleep(3333) 
  end 
   

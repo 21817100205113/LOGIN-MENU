@@ -159,9 +159,9 @@ TUTORIAL = gg.alert("Olá, Deseja Ver Um Tutorial, Sobre Como Usar O Script/Game
  GolfRiv = "atv" 
  afkvip = "atv" 
  TrialsFr = "atv" 
- Dia = 24 
- Mes = 24 
- Ano = 6969 
+ Dia = 99
+ Mes = 99
+ Ano = 999999
  isUserVIP = "true" 
  gg.setVisible(false) 
  gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano) 

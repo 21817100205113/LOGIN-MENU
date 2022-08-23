@@ -534,7 +534,7 @@ TUTORIAL = gg.alert("Olá, Deseja Ver Um Tutorial, Sobre Como Usar O Script/Game
  end 
   
  --[[USER: Kiwi]]-- 
- if uid == "5df54d6dd323cb9" 
+ if uid == "6f8d5cc52d64c3fc" 
  then 
  vicevip = "atv" 
  Dia = 08 

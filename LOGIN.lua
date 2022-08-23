@@ -132,7 +132,7 @@ TUTORIAL = gg.alert("Olá, Deseja Ver Um Tutorial, Sobre Como Usar O Script/Game
   
  --[[USER: kirafp55]]-- 
  if uid == "5282b821da81a738"
- or uid == "b85b2cf11582bf7a" 
+ or uid == "855746e0c92592b2" 
  then 
  vicevip = "atv" 
  Dia = 18 
@@ -537,8 +537,8 @@ TUTORIAL = gg.alert("Olá, Deseja Ver Um Tutorial, Sobre Como Usar O Script/Game
  if uid == "6f8d5cc52d64c3fc" 
  then 
  vicevip = "atv" 
- Dia = 08
- Mes = 10
+ Dia = 08 
+ Mes = 09 
  Ano = 2022 
  isUserVIP = "true" 
  gg.setVisible(false) 

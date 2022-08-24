@@ -975,7 +975,7 @@ end
  then 
  vicevip = "atv" 
  Dia = 21
- Mes = 10
+ Mes = 9
  Ano = 2022 
  isUserVIP = "true" 
  gg.setVisible(false) 
@@ -989,7 +989,7 @@ end
  then 
  vicevip = "atv" 
  Dia = 21
- Mes = 10
+ Mes = 9
  Ano = 2022 
  isUserVIP = "true" 
  gg.setVisible(false) 
@@ -1017,7 +1017,7 @@ end
  then 
  vicevip = "atv" 
  Dia = 21
- Mes = 10
+ Mes = 9
  Ano = 2022 
  isUserVIP = "true" 
  gg.setVisible(false) 
@@ -1031,7 +1031,7 @@ end
  then 
  vicevip = "atv" 
  Dia = 22
- Mes = 10
+ Mes = 9
  Ano = 2022 
  isUserVIP = "true" 
  gg.setVisible(false) 
@@ -1059,7 +1059,7 @@ end
  then 
  vicevip = "atv" 
  Dia = 22
- Mes = 10
+ Mes = 9
  Ano = 2022 
  isUserVIP = "true" 
  gg.setVisible(false) 
@@ -1073,7 +1073,7 @@ end
  then 
  vicevip = "atv" 
  Dia = 06
- Mes = 10
+ Mes = 9
  Ano = 2022 
  isUserVIP = "true" 
  gg.setVisible(false) 
@@ -1101,7 +1101,7 @@ end
  then 
  vicevip = "atv" 
  Dia = 23
- Mes = 10
+ Mes = 9
  Ano = 2022 
  isUserVIP = "true" 
  gg.setVisible(false) 
@@ -1109,8 +1109,22 @@ end
  gg.toast("BEM VINDO\nUSUÁRIO: CARLOS SANTOS") 
  gg.sleep(333end
 
+--[[USER: MATEUS ANYA]]-- 
+ if uid == "855746e0c92592b2" 
+ then 
+ vicevip = "atv" 
+ Dia = 24
+ Mes = 9
+ Ano = 2022 
+ isUserVIP = "true" 
+ gg.setVisible(false) 
+ gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano) 
+ gg.toast("BEM VINDO\nUSUÁRIO: MATEUS") 
+ gg.sleep(3333) 
+ end
+ end
 
- --[[USER: MATEUS ANYA]]-- 
+--[[USER: IGOR CAMARGO]]-- 
  if uid == "855746e0c92592b2" 
  then 
  vicevip = "atv" 
@@ -1120,7 +1134,7 @@ end
  isUserVIP = "true" 
  gg.setVisible(false) 
  gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano) 
- gg.toast("BEM VINDO\nUSUÁRIO: MATEUS") 
+ gg.toast("BEM VINDO\nUSUÁRIO: IGOR CAMARGO") 
  gg.sleep(3333) 
  end
  end

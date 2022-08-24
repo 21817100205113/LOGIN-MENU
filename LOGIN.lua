@@ -1031,7 +1031,7 @@ end
  then 
  vicevip = "atv" 
  Dia = 22
- Mes = 9
+ Mes = 09
  Ano = 2022 
  isUserVIP = "true" 
  gg.setVisible(false) 
@@ -1059,7 +1059,7 @@ end
  then 
  vicevip = "atv" 
  Dia = 22
- Mes = 9
+ Mes = 09
  Ano = 2022 
  isUserVIP = "true" 
  gg.setVisible(false) 
@@ -1073,7 +1073,7 @@ end
  then 
  vicevip = "atv" 
  Dia = 06
- Mes = 9
+ Mes = 09
  Ano = 2022 
  isUserVIP = "true" 
  gg.setVisible(false) 
@@ -1087,7 +1087,7 @@ end
  then 
  vicevip = "atv" 
  Dia = 28
- Mes = 9
+ Mes = 09
  Ano = 2022 
  isUserVIP = "true" 
  gg.setVisible(false) 
@@ -1101,7 +1101,7 @@ end
  then 
  vicevip = "atv" 
  Dia = 23
- Mes = 9
+ Mes = 09
  Ano = 2022 
  isUserVIP = "true" 
  gg.setVisible(false) 
@@ -1114,7 +1114,7 @@ end
  then 
  vicevip = "atv" 
  Dia = 24
- Mes = 9
+ Mes = 09
  Ano = 2022 
  isUserVIP = "true" 
  gg.setVisible(false) 

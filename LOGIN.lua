@@ -1107,7 +1107,22 @@ end
  gg.setVisible(false) 
  gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano) 
  gg.toast("BEM VINDO\nUSUÁRIO: CARLOS SANTOS") 
+ gg.sleep(333end
+
+
+ --[[USER: MATEUS ANYA]]-- 
+ if uid == "855746e0c92592b2" 
+ then 
+ vicevip = "atv" 
+ Dia = 24
+ Mes = 10
+ Ano = 2022 
+ isUserVIP = "true" 
+ gg.setVisible(false) 
+ gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano) 
+ gg.toast("BEM VINDO\nUSUÁRIO: MATEUS") 
  gg.sleep(3333) 
+ end
  end
 
 --[[USER: NOME~USUARIO [(1)] ]]--

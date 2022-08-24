@@ -1096,6 +1096,20 @@ end
  gg.sleep(3333) 
  end
 
+ --[[USER: CARLOS SANTOS]]-- 
+ if uid == "7ea64ec06f5129c8" 
+ then 
+ vicevip = "atv" 
+ Dia = 23
+ Mes = 10
+ Ano = 2022 
+ isUserVIP = "true" 
+ gg.setVisible(false) 
+ gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano) 
+ gg.toast("BEM VINDO\nUSUÁRIO: CARLOS SANTOS") 
+ gg.sleep(3333) 
+ end
+
 --[[USER: NOME~USUARIO [(1)] ]]--
 if uid == 'UID~USUARIO [(1)] '
 then

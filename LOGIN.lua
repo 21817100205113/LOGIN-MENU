@@ -72,11 +72,11 @@ TUTORIAL = gg.alert("Olá, Deseja Ver Um Tutorial, Sobre Como Usar O Script/Game
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
   
  --[[USER: Shaka CLIENTE Golf Rival]]-- 
- if uid == "5970b34f71b1f4c5" 
+ if uid == "42e8f72de341c75b" 
  then 
  GolfRiv = "atv" 
- Dia = 18 
- Mes = 08 
+ Dia = 03 
+ Mes = 09 
  Ano = 2022 
  isUserVIP = "true" 
  gg.setVisible(false) 

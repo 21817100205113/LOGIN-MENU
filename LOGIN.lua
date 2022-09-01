@@ -70,8 +70,8 @@ TUTORIAL = gg.alert("Olá, Deseja Ver Um Tutorial, Sobre Como Usar O Script/Game
   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
   
---[[USER: KIRAFP55]]-- 
- if uid == "b85b2cf11582bf7a" 
+--[[USER: Bruno Cliente]]-- 
+ if uid == "011e0008c39eb455" 
  then 
  CSGO = "atv" 
  Dia = 01 
@@ -80,7 +80,7 @@ TUTORIAL = gg.alert("Olá, Deseja Ver Um Tutorial, Sobre Como Usar O Script/Game
  isUserVIP = "true" 
  gg.setVisible(false) 
  gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano) 
- gg.toast("BEM VINDO\nUSUÁRIO: MEU MESTRE ") 
+ gg.toast("BEM VINDO\nUSUÁRIO: Bruno ") 
  gg.sleep(3333) 
  end 
   

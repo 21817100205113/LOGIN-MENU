@@ -1099,7 +1099,7 @@ end
  end 
   
  --[[USER: IGOR CAMARGO]]-- 
- if uid == "855746e0c92592b" 
+ if uid == "855746e0c92592b2" 
  then 
  vicevip = "atv" 
  Dia = 26

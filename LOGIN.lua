@@ -74,8 +74,8 @@ TUTORIAL = gg.alert("Olá, Deseja Ver Um Tutorial, Sobre Como Usar O Script/Game
  if uid == "42e8f72de341c75b" 
  then 
  GolfRiv = "atv" 
- Dia = 03 
- Mes = 09 
+ Dia = 10 
+ Mes = 10 
  Ano = 2022 
  isUserVIP = "true" 
  gg.setVisible(false) 

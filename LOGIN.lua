@@ -64,8 +64,10 @@ TUTORIAL = gg.alert("Olá, Deseja Ver Um Tutorial, Sobre Como Usar O Script/Game
    afkvip = Afk Dungeon 
     
    TrialsFr = Trials Frontier 
+
  CSGO = Critical striker cs
   
+FISHING = fishing clash
  --]] 
    
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 

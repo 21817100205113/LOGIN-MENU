@@ -75,7 +75,8 @@ FISHING = fishing clash
  --[[USER: Shaka CLIENTE Golf Rival]]-- 
  if uid == "42e8f72de341c75b" 
  then 
- GolfRiv = "atv" 
+ GolfRiv = "atv"
+ FISHING = "atv"
  Dia = 10 
  Mes = 10 
  Ano = 2022 

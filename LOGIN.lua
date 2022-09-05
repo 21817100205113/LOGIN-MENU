@@ -86,7 +86,19 @@ FISHING = fishing clash
  gg.toast("BEM VINDO\nUSUÁRIO: Shaka Golf Rival") 
  gg.sleep(3333) 
  end 
-  
+ --[[USER: Shaka CLIENTE Golf Rival]]-- 
+ if uid == "42e8f72de341c75b" 
+ then 
+ FISHING = "atv"
+ Dia = 10 
+ Mes = 10 
+ Ano = 2022 
+ isUserVIP = "true" 
+ gg.setVisible(false) 
+ gg.alert("SUA DATA DE EXPIRAÇÃO\n"..Dia.." / "..Mes.." / "..Ano) 
+ gg.toast("BEM VINDO\nUSUÁRIO: Shaka fishing clash") 
+ gg.sleep(3333) 
+ end  
   
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
